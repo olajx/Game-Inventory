@@ -1,3 +1,2 @@
 # Game-Inventory
-# Game-Inventory
-# gameinventory
+  It's a fantasy game
